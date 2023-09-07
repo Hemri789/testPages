@@ -1,11 +1,11 @@
 # testPages
 # 利用github搭建部署个人静态网站
 # 1、创建项目
-![请添加图片描述](https://img-blog.csdnimg.cn/97619fdbd8db497d9069d24ae51e69cd.jpeg)
+![1](https://github.com/Hemri789/testPages/assets/92628105/c6e5b39c-fb6a-403b-b6ce-76ca35a71c48)
+
 # 2、项目名称和描述
 >输入项目名称，readme.md文件可选可不选。
-
-![请添加图片描述](https://img-blog.csdnimg.cn/95df1d817a5249f0a36efd7cefb75c38.jpeg)
+![2](https://github.com/Hemri789/testPages/assets/92628105/e306d357-7443-42c7-89b2-50cbb9411571)
 
 # 3、仓库新建一个index.html文件
 ```
@@ -21,25 +21,25 @@
 </body>
 </html>
 ```
-![请添加图片描述](https://img-blog.csdnimg.cn/eb7c35b744274413a9a8836aff6165e4.jpeg)
-![请添加图片描述](https://img-blog.csdnimg.cn/3589ac77c30a415d9046ce572a233ac0.jpeg)
+![3](https://github.com/Hemri789/testPages/assets/92628105/2c540633-9b43-4d5f-b13c-bc58129ff1e8)
+![4](https://github.com/Hemri789/testPages/assets/92628105/a139a572-ab23-4dc6-b655-a70466a7365e)
 >提交保存
+![5](https://github.com/Hemri789/testPages/assets/92628105/9b3dd3c2-a0da-47f2-a0ce-2a56626b2a1c)
 
-![请添加图片描述](https://img-blog.csdnimg.cn/bf7af5b45f6a46c391e4eb150e06f734.jpeg)
 # 4、项目设置
 >settings -> pages，**branch**分支选择**master** 然后 **save**
+![6](https://github.com/Hemri789/testPages/assets/92628105/23981298-9829-4498-a8e3-8d338a959b6c)
 
-![请添加图片描述](https://img-blog.csdnimg.cn/3155c2a0891c43ec8e382ca47b340a45.jpeg)
 # 5、项目自动部署
 >**actions**中可以看见项目正在自动部署，等待片刻之后就好了。
+![7](https://github.com/Hemri789/testPages/assets/92628105/a3f44f43-ddd5-48cf-a19a-29a577aa58fd)
+![8](https://github.com/Hemri789/testPages/assets/92628105/02c804b9-ec5f-44cd-b7c6-d00b2a1d2b36)
 
-![请添加图片描述](https://img-blog.csdnimg.cn/be99efe7f47b45d28152f3a310fb22be.jpeg)
-
-![请添加图片描述](https://img-blog.csdnimg.cn/af8c99662fba487a991d477d98fb2a4c.jpeg)
 # 6、设置页面链接
 >项目主页右侧设置，自动设置静态页面的链接
+![9](https://github.com/Hemri789/testPages/assets/92628105/6c964c79-d833-46a5-9657-3b4c6c212bbd)
 
-![请添加图片描述](https://img-blog.csdnimg.cn/633de341a08142e3804a575a7080aa3d.jpeg)
 # 7、访问个人页面
-![请添加图片描述](https://img-blog.csdnimg.cn/d3be27c392dd48b492394a1f5c4bf766.jpeg)
-![请添加图片描述](https://img-blog.csdnimg.cn/f86a761a814c423c93dfd41143f306be.jpeg)
+![10](https://github.com/Hemri789/testPages/assets/92628105/0cb5449f-231d-4b8a-9bac-a528263f9e7f)
+![11](https://github.com/Hemri789/testPages/assets/92628105/e78740ae-37e0-43f6-bb53-172e808ce864)
+
